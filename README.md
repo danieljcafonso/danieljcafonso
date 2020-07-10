@@ -1,6 +1,19 @@
 ### Hi there, I'm Daniel Afonso 👋
 
-Daniel is a Software Engineer at Talkdesk. His current interest is in React and JavaScript, and he advocates for better testing principles using the testing library. He has a full-stack background, having worked on different languages and frameworks on various projects from IoT to Fraud Detection. In his free time, when he's not learning new technologies or writing about them, he's probably reading comics or watching superhero movies and shows. 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://medium.com/@danieljcafonso">Blog</a> •
+  <a href="https://twitter.com/intent/follow?screen_name=danieljcafonso&tw_p=followbutton">Twitter</a> •
+  <a href="https://www.linkedin.com/in/daniel-afonso-523a13155/">LinkedIn</a>
+</p>
+
+---
+
+- I'm a Software Engineer at Talkdesk
+- Interested in JavaScript and React 
+- Full-Stack background
+- Pronouns: he/him
+- Really like comics and superhero movies and shows
+
+
 
 
