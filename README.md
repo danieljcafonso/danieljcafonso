@@ -1,4 +1,5 @@
-### Hi there, I'm Daniel Afonso 👋
+
+<h3 align="center"> Hi there, I'm Daniel Afonso 👋</h3>
 
 <p align="center">
   <a href="https://medium.com/@danieljcafonso">Blog</a> •
