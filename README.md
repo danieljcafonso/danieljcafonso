@@ -9,7 +9,7 @@
 
 ---
 
-- I'm a Software Engineer at Ceracare
+- I'm a Senior Frontend Engineer at Ceracare
 - Interested in JavaScript and React 
 - Full-Stack background
 - Pronouns: he/him
