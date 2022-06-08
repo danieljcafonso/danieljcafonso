@@ -9,7 +9,7 @@
 
 ---
 
-- I'm a Senior Frontend Engineer at Ceracare
+- I'm a Developer Advocate at OLX Group
 - Interested in JavaScript and React 
 - Full-Stack background
 - Pronouns: he/him
