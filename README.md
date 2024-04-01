@@ -10,8 +10,9 @@
 ---
 
 - I'm a Developer Advocate at OLX Group
-- Interested in JavaScript and React 
-- Full-Stack background
+- SolidJS DX Team
+- Author of State Management with React Query
+- Egghead.io Instructor
 - Pronouns: he/him
 - Really like comics and superhero movies and shows
 
