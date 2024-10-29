@@ -9,7 +9,7 @@
 
 ---
 
-- I'm a Developer Advocate at OLX Group
+- I'm a Senior Developer Advocate at PagerDuty
 - SolidJS DX Team
 - Author of State Management with React Query
 - Egghead.io Instructor
